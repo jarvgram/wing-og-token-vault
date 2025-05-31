@@ -23,7 +23,7 @@ This system converts past real-world investor debt into a verifiable on-chain st
 
 ## 🔗 Related
 
-- [wingverse.co](https://wingverse.co) — brand ecosystem
+- [wingverse.co](https://wingshackco.com) — brand ecosystem
 - [Token Explainer PDF](link-if-you-upload-later)
 
 Language: Solidity
